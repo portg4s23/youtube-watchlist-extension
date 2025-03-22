@@ -1,39 +1,57 @@
-# YouTube Watchlist Chrome Extension
+YouTube Watchlist Chrome Extension
 
 A simple Chrome extension to save YouTube videos as a watchlist, reducing tab clutter.
 
-Features
-Save YouTube videos from open tabs.
+📌 Features
 
-View saved videos in a popup.
+📌 Save YouTube videos from open tabs.
 
-Open videos in a new tab with one click.
+🎥 View saved videos in a popup.
 
-Remove videos from the list.
+🔗 Open videos in a new tab with one click.
 
-Persistent storage to retain videos across sessions.
+❌ Remove videos from the list.
 
-Installation
-Clone this repository:
+💾 Persistent storage to retain videos across sessions.
 
-sh
-Copy
-Edit
-git clone https://github.com/portgas23/youtube-watchlist-extension.git
-Open Chrome and go to chrome://extensions/.
+📥 Installation
 
-Enable Developer mode (top right).
+Clone this repository
+
+git clone https://github.com/your-username/youtube-watchlist-extension.git  
+
+Open Chrome Extensions page
+
+Go to chrome://extensions/.
+
+Enable Developer Mode
+
+Toggle the switch at the top-right corner.
+
+Load the Extension
 
 Click Load unpacked and select the extension folder.
 
-Usage
+🚀 Usage
+
 Click the extension icon to open the popup.
 
-Click Save to add the current YouTube video.
+Click "Save" to add the currently active YouTube video.
 
 Click a saved video to open it in a new tab.
 
-Click Remove to delete it from the list.
+Click "Remove" to delete a video from the list.
 
-License
-MIT License
+🛠️ Built With
+
+HTML, CSS, JavaScript
+
+Chrome Extensions API
+
+📝 License
+
+This project is licensed under the MIT License.
+
+💡 Contributing
+
+Pull requests are welcome! 
