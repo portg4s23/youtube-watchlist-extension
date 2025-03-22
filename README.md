@@ -25,4 +25,4 @@ While watching a YouTube video, click the Save button to add it to your list.
 
 Screenshots 📸
 ----
-![Screenshot](https://ibb.co/KZJZdmW)
+![Screenshot](https://i.ibb.co/d9R9F7D/Screenshot-2025-03-22-at-17-14-22.png)
