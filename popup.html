@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YouTube Watchlist</title>
+  <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>YouTube Watchlist</h1>
+      <button id="saveVideo" class="primary-button">Save Current Video</button>
+    </header>
+    
+    <div id="noVideos" class="hidden">
+      <p>No videos in your watchlist yet!</p>
+      <p class="hint">Visit a YouTube video and click "Save Current Video" to add it.</p>
+    </div>
+
+    <ul id="videoList" class="video-list"></ul>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
