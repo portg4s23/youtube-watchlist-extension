@@ -1,57 +1,28 @@
-YouTube Watchlist Chrome Extension
+YouTube Watchlist Chrome Extension 📺✨
+=================================
+This Chrome extension helps you organize and manage your YouTube videos into a simple, clutter-free watchlist! Keep track of all your videos without opening a ton of tabs or losing track of your favorite content. 🎬👌
 
-A simple Chrome extension to save YouTube videos as a watchlist, reducing tab clutter.
+Features
+---------
+- **Popup UI:** A sleek popup interface that displays a list of saved YouTube videos.
+- **Save Button:** Quickly save the currently active YouTube video to your watchlist with just one click.
+- **Open Button:** Each saved video has an “Open” button that opens the video in a new tab for easy access.
+- **Remove Button:** Remove videos from your watchlist with a single click when you're done.
 
-📌 Features
+Installation
+---------
+- Clone or download the repository to your local machine.
+- Open Chrome and go to chrome://extensions/.
+- Enable Developer Mode in the top-right corner.
+- Click Load unpacked and select the folder containing the extension files.
+- The extension will now appear in your browser’s toolbar!
 
-📌 Save YouTube videos from open tabs.
+Usage
+-------
+- Click on the extension icon in your Chrome toolbar to open the popup UI.
+While watching a YouTube video, click the Save button to add it to your list.
+- You can now view, open, or remove the saved video using the respective buttons.
 
-🎥 View saved videos in a popup.
-
-🔗 Open videos in a new tab with one click.
-
-❌ Remove videos from the list.
-
-💾 Persistent storage to retain videos across sessions.
-
-📥 Installation
-
-Clone this repository
-
-git clone https://github.com/your-username/youtube-watchlist-extension.git  
-
-Open Chrome Extensions page
-
-Go to chrome://extensions/.
-
-Enable Developer Mode
-
-Toggle the switch at the top-right corner.
-
-Load the Extension
-
-Click Load unpacked and select the extension folder.
-
-🚀 Usage
-
-Click the extension icon to open the popup.
-
-Click "Save" to add the currently active YouTube video.
-
-Click a saved video to open it in a new tab.
-
-Click "Remove" to delete a video from the list.
-
-🛠️ Built With
-
-HTML, CSS, JavaScript
-
-Chrome Extensions API
-
-📝 License
-
-This project is licensed under the MIT License.
-
-💡 Contributing
-
-Pull requests are welcome! 
+Screenshots 📸
+----
+![Screenshot](https://ibb.co/KZJZdmW)
